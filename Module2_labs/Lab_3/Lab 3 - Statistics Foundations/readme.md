@@ -28,9 +28,11 @@ AVG = (720+1320)/24 = 85kmph
 Challenge 3
 The lifetimes of 400 light-bulbs were found to the nearest hour. The results were recorded as follows. Lifetime (hours) 0–199 200–399 400–599 600–799 800–999 1000–1199 1200–1999 Frequency 143 97 64 51 14 14 17 Construct a histogram and cumulative frequency polygon for this dataset. Estimate the percentage of bulbs with lifetime less than 480 hours.
 Lifetime
+
 (hours)	0-100	200-399	400-599	600-799	800-999	1000-1199	1200-1999
 Frequency	143	97	64	51	14	14	17
 Cum Frequency	143	240	304	355	369	383	400
+![image](https://user-images.githubusercontent.com/93102402/148760815-54ed215e-6843-4dda-80dd-a2ecbd3494cb.png)
 
 
 
@@ -90,17 +92,21 @@ Issue 33	6	3	9
 Issue 34	6	4	10
 Issue 35	6	5	11
 Issue 36	6	6	12
+
 The max value is 12.
 
 
 Describe the following events:
+
 •	Case A: Both values are greater than 5.
+
 Issue 29	5	5	10
 Issue 30	5	6	11
 Issue 35	6	5	11
 Issue 36	6	6	12
 
 •	Case B: The sum of values is even.
+
 Issue 2	1	2	3
 Issue 7	2	1	3
 Issue 3	1	3	4
@@ -138,6 +144,7 @@ Issue 35	6	5	11
 Issue 36	6	6	12
 
 •	Case C: The maximum is the value of both rolls.
+
 Issue 36	6	6	12
 
 
