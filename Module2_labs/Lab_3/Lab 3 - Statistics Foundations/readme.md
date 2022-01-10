@@ -75,12 +75,7 @@ Part 3
 
 Challenge 1
 
-MIN	56
-MAX	98
-MEAN	79,93333333
-SUM	1199
-STD	15,21027222
-VARIANCE	215,9288889
+![image](https://user-images.githubusercontent.com/93102402/148761678-a1341c75-46c6-4aa3-a650-8ccab9c91889.png)
 
 
 
