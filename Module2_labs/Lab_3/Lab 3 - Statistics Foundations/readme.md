@@ -26,12 +26,6 @@ AVG = (720+1320)/24 = 85kmph
 
 
 Challenge 3
-The lifetimes of 400 light-bulbs were found to the nearest hour. The results were recorded as follows. Lifetime (hours) 0–199 200–399 400–599 600–799 800–999 1000–1199 1200–1999 Frequency 143 97 64 51 14 14 17 Construct a histogram and cumulative frequency polygon for this dataset. Estimate the percentage of bulbs with lifetime less than 480 hours.
-Lifetime
-
-(hours)	0-100	200-399	400-599	600-799	800-999	1000-1199	1200-1999
-Frequency	143	97	64	51	14	14	17
-Cum Frequency	143	240	304	355	369	383	400
 ![image](https://user-images.githubusercontent.com/93102402/148760815-54ed215e-6843-4dda-80dd-a2ecbd3494cb.png)
 
 
@@ -39,9 +33,7 @@ Cum Frequency	143	240	304	355	369	383	400
 Challenge 4
 The time between arrival of 60 patients at an intensive care unit were recorded to the nearest hour. The data are shown below. Time (hours) 0–19 20–39 40–59 60–79 80–99 100–119 120–139 140–159 160–179 Frequency 16 13 17 4 4 3 1 1 1 Determine the median, mean and standard deviation for this dataset.
  
-AVG	6,66666667
-MED	4
-STD	6,68954408
+![image](https://user-images.githubusercontent.com/93102402/148761079-5839bca7-5db3-4f2a-aa5b-3466359ea13f.png)
 
 
 
@@ -55,43 +47,7 @@ One player rolls two dices. Describe the measurable space and the random variabl
 •	B. The sum of the values obtained.
 •	C. The maximum value obtained after rolling both dices.
 
- 	DICE 1	DICE 2	SUM
-Issue 1	1	1	2
-Issue 2	1	2	3
-Issue 3	1	3	4
-Issue 4	1	4	5
-Issue 5	1	5	6
-Issue 6	1	6	7
-Issue 7	2	1	3
-Issue 8	2	2	4
-Issue 9	2	3	5
-Issue 10	2	4	6
-Issue 11	2	5	7
-Issue 12	2	6	8
-Issue 13	3	1	4
-Issue 14	3	2	5
-Issue 15	3	3	6
-Issue 16	3	4	7
-Issue 17	3	5	8
-Issue 18	3	6	9
-Issue 19	4	1	5
-Issue 20	4	2	6
-Issue 21	4	3	7
-Issue 22	4	4	8
-Issue 23	4	5	9
-Issue 24	4	6	10
-Issue 25	5	1	6
-Issue 26	5	2	7
-Issue 27	5	3	8
-Issue 28	5	4	9
-Issue 29	5	5	10
-Issue 30	5	6	11
-Issue 31	6	1	7
-Issue 32	6	2	8
-Issue 33	6	3	9
-Issue 34	6	4	10
-Issue 35	6	5	11
-Issue 36	6	6	12
+![image](https://user-images.githubusercontent.com/93102402/148761170-26016cda-44b3-4180-ae55-80596c1ab1f0.png)
 
 The max value is 12.
 
@@ -99,53 +55,16 @@ The max value is 12.
 Describe the following events:
 
 •	Case A: Both values are greater than 5.
+![image](https://user-images.githubusercontent.com/93102402/148761229-d1e16fd5-45b5-4f02-8ccc-34ee4b683113.png)
 
-Issue 29	5	5	10
-Issue 30	5	6	11
-Issue 35	6	5	11
-Issue 36	6	6	12
 
 •	Case B: The sum of values is even.
+![image](https://user-images.githubusercontent.com/93102402/148761439-72bc746c-b8c2-4389-87b0-819d6ea43c6e.png)
 
-Issue 2	1	2	3
-Issue 7	2	1	3
-Issue 3	1	3	4
-Issue 8	2	2	4
-Issue 13	3	1	4
-Issue 4	1	4	5
-Issue 9	2	3	5
-Issue 14	3	2	5
-Issue 19	4	1	5
-Issue 5	1	5	6
-Issue 10	2	4	6
-Issue 15	3	3	6
-Issue 20	4	2	6
-Issue 25	5	1	6
-Issue 6	1	6	7
-Issue 11	2	5	7
-Issue 16	3	4	7
-Issue 21	4	3	7
-Issue 26	5	2	7
-Issue 31	6	1	7
-Issue 12	2	6	8
-Issue 17	3	5	8
-Issue 22	4	4	8
-Issue 27	5	3	8
-Issue 32	6	2	8
-Issue 18	3	6	9
-Issue 23	4	5	9
-Issue 28	5	4	9
-Issue 33	6	3	9
-Issue 24	4	6	10
-Issue 29	5	5	10
-Issue 34	6	4	10
-Issue 30	5	6	11
-Issue 35	6	5	11
-Issue 36	6	6	12
 
 •	Case C: The maximum is the value of both rolls.
+![image](https://user-images.githubusercontent.com/93102402/148761525-8301cc17-d707-4654-b9cd-9713d8f2ab01.png)
 
-Issue 36	6	6	12
 
 
 
